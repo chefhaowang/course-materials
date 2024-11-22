@@ -1,2 +1,2 @@
-# PASS-Weekly
-Harry's PASS session weekly material
+# Course Materials
+Harry's session material
