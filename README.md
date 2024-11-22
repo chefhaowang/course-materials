@@ -1,2 +1,2 @@
-# Course Materials
+# Course Material
 Harry's session material
